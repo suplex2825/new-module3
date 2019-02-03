@@ -1,0 +1,63 @@
+#nav-list {
+	margin-top: 10px;
+	background-color: white;
+}
+
+#nav-list a {
+	text-align: center;
+	color: black;
+	border: 2px solid black;
+}
+
+#head-nav {
+	background-color: gray;
+	border-radius: 0;
+}
+
+#color {
+	color: black;
+	font-size: 35px;
+	padding-left: 30px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+
+#change {
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#big {
+	font-weight:bold;
+}
+
+#background {
+	background-color: gray;
+	height: 1000px;
+	margin-left: 10px;
+	margin-right: 10px;
+	overflow: auto;
+}
+
+#bold {
+	font-weight: bold;
+}
+
+#haha {
+	background-color: #00F5FF;
+	margin-top: 60px;
+	margin-right: 10px;
+	margin-left: 10px;
+	overflow: auto;
+	height: 1000px;
+}
+
+#las2 {
+	background-color: #00FF7F;
+	margin-top: 60px;
+	margin-left: 10px;
+	overflow: auto;
+}
+
